@@ -52,7 +52,4 @@ The generated Python files include:
 - Preservation of all code content from the original notebook
 
 ## License
-[MIT License](LICENSE)
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
